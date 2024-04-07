@@ -2,6 +2,20 @@
 
 Welcome to our Web3 Decentralized Exchange project! This project aims to revolutionize decentralized finance (DeFi) by providing users with a seamless, secure, and efficient platform for token swapping on the Ethereum Virtual Machine (EVM) chain.
 
+# This Is a Hackathan Project
+
+### [Project by SRM Institute of Science and Technology, Chennai, India.](https://srmrmp.edu.in/)
+
+### Statement From SRM
+
+TRACKS
+
+- XDC Network
+- Aptos
+- PnB Metlife (Blockchain Insurance)
+- CoinEx
+- Superteam India
+
 ## Overview
 
 Our Web3 Decentralized Exchange leverages cutting-edge technologies such as Moralis Web3 API, 1Inch Aggregator, Wagmi, React, and NodeJS to empower users with unparalleled capabilities in the DeFi landscape. By aggregating liquidity from multiple sources, optimizing token swaps, and ensuring robust security measures, our platform enables users to exchange ERC20 tokens with ease and confidence.
